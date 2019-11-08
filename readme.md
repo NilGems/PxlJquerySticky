@@ -7,12 +7,12 @@
 | `classes`   | string		 |	sticky   | Class to add on container when position received. (*Default:* sticky) |
 ### Example to use
 
-#### Basic useage
+#### Basic usage
 ```
 $(window).pixelSticky() 
 ``` 
 This is a basic use of this plugin. Just add or remove `sticky` class from body when window scroll.
-#### Advance useage 
+#### Advance usage 
 ``` 
 $('#foo').pixelSticky({
 	container: $('#foo-container'),

@@ -23,3 +23,6 @@ $('#foo').pixelSticky({
 
 In above example `$('#foo')` element when scrolled and *top* position of `$('#foo')` when greater then *0* then  'foo-sticky-class' will add
 to `$('#foo-container')`.
+
+### Author
+- Niladri Shekhar Mondal *- Initial work* *-[Pixel Solutionz](https://pixelsolutionz.com)

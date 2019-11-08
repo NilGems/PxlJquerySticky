@@ -25,4 +25,4 @@ In above example `$('#foo')` element when scrolled and *top* position of `$('#fo
 to `$('#foo-container')`.
 
 ### Author
-- Niladri Shekhar Mondal *- Initial work* *-[Pixel Solutionz](https://pixelsolutionz.com)
+- Niladri Shekhar Mondal *- Initial work* -[Pixel Solutionz](https://pixelsolutionz.com)
